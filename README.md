@@ -22,7 +22,10 @@
 
 ---
 
-### 📊 GitHub Stats <img src="https://github-readme-stats.vercel.app/api?username=UyenTnm&show_icons=true&theme=radical"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UyenTnm&layout=compact&theme=radical"/>
+### 📊 GitHub Stats 
+<img src="https://github-readme-stats.vercel.app/api?username=UyenTnm&show_icons=true&theme=radical&cache_seconds=1800"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UyenTnm&layout=compact&theme=radical&cache_seconds=1800"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=UyenTnm&theme=radical"/>
 
 ---
 
@@ -34,15 +37,14 @@
 
 ---
 
-### ⭐ Featured Projects
+### 🚧 Featured Projects
 
-* 🛒 Keyboard Ecommerce Website
-* 📋 To Do List App
-* 🌐 Personal Portfolio
+Projects are currently being updated.  
+Stay tuned for upcoming releases 🚀
 
 ---
 
 ### 📫 Contact
 
-* Email: [yourmail@gmail.com](mailto:yourmail@gmail.com)
-* Portfolio: yourwebsite.com
+* Email: uyen.truongnm@gmail.com
+* Portfolio: https://alicedev.vercel.app/
