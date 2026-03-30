@@ -23,9 +23,8 @@
 ---
 
 ### 📊 GitHub Stats 
-<img src="https://github-readme-stats.vercel.app/api?username=UyenTnm&show_icons=true&theme=radical&cache_seconds=1800"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UyenTnm&layout=compact&theme=radical&cache_seconds=1800"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=UyenTnm&theme=radical"/>
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=UyenTnm&show_icons=true&theme=radical&cache_seconds=1800"/> -->
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UyenTnm&layout=compact&theme=radical&cache_seconds=1800"/> -->
 
 ---
 
