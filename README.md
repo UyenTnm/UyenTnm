@@ -24,7 +24,7 @@
 
 ### 📊 GitHub Stats 
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=UyenTnm&show_icons=true&theme=radical&cache_seconds=1800"/> -->
-<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UyenTnm&layout=compact&theme=radical&cache_seconds=1800"/> -->
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UyenTnm&layout=compact&theme=radical&cache_seconds=1800"/>  -->
 
 ---
 
@@ -45,5 +45,11 @@ Stay tuned for upcoming releases 🚀
 
 ### 📫 Contact
 
-* Email: uyen.truongnm@gmail.com
-* Portfolio: https://alicedev.vercel.app/
+<p align="center">
+<a href="mailto:uyen.truongnm@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://alicedev.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+</p>
